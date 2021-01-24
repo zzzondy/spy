@@ -216,4 +216,5 @@ while running:
     all_sprites.draw(screen)
     pygame.display.flip()
 
+# Конец
 pygame.quit()
